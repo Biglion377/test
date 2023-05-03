@@ -1,3 +1,4 @@
 # test
 
 Ciaone
+int main() {}
